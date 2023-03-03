@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Exam-ASP.Net/1.0.0": {
+        "runtime": {
+          "Exam-ASP.Net.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exam-ASP.Net/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
