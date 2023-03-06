@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KI3\\Ki3\\DMAWD\\practical-api\\ExamPTT.csproj": {}
+    "D:\\KI3\\Ki3\\ExamPTT\\ExamPTT.csproj": {}
   },
   "projects": {
-    "D:\\KI3\\Ki3\\DMAWD\\practical-api\\ExamPTT.csproj": {
+    "D:\\KI3\\Ki3\\ExamPTT\\ExamPTT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KI3\\Ki3\\DMAWD\\practical-api\\ExamPTT.csproj",
+        "projectUniqueName": "D:\\KI3\\Ki3\\ExamPTT\\ExamPTT.csproj",
         "projectName": "ExamPTT",
-        "projectPath": "D:\\KI3\\Ki3\\DMAWD\\practical-api\\ExamPTT.csproj",
+        "projectPath": "D:\\KI3\\Ki3\\ExamPTT\\ExamPTT.csproj",
         "packagesPath": "C:\\Users\\Hi\\.nuget\\packages\\",
-        "outputPath": "D:\\KI3\\Ki3\\DMAWD\\practical-api\\obj\\",
+        "outputPath": "D:\\KI3\\Ki3\\ExamPTT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hi\\AppData\\Roaming\\NuGet\\NuGet.Config",

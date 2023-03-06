@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i7U14hwpogDjTvFAQAa0E3fFC86tntsMMxGvJvaxq5SZUBu9IGlYxYNkgDeYzur/ZTNMuzj9gEsHV6HRwE1jSg==",
+  "dgSpecHash": "QAzxl1yEdZ/PlNKBaNyAOqtkSJLO4RF2i7dOTR5QGyBPFtrb43yOmQ3/UvnbOCod7Dzx+TsfOJ9Sa+gMXOsONQ==",
   "success": true,
-  "projectFilePath": "D:\\KI3\\Ki3\\DMAWD\\practical-api\\ExamPTT.csproj",
+  "projectFilePath": "D:\\KI3\\Ki3\\ExamPTT\\ExamPTT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Hi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

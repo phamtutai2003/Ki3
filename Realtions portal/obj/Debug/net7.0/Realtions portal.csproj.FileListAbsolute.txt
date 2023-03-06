@@ -1,0 +1,32 @@
+D:\KI3\Ki3\Realtions portal\bin\Debug\net7.0\Views\prepros-6.config
+D:\KI3\Ki3\Realtions portal\bin\Debug\net7.0\appsettings.Development.json
+D:\KI3\Ki3\Realtions portal\bin\Debug\net7.0\appsettings.json
+D:\KI3\Ki3\Realtions portal\bin\Debug\net7.0\Realtions portal.staticwebassets.runtime.json
+D:\KI3\Ki3\Realtions portal\bin\Debug\net7.0\Realtions portal.exe
+D:\KI3\Ki3\Realtions portal\bin\Debug\net7.0\Realtions portal.deps.json
+D:\KI3\Ki3\Realtions portal\bin\Debug\net7.0\Realtions portal.runtimeconfig.json
+D:\KI3\Ki3\Realtions portal\bin\Debug\net7.0\Realtions portal.dll
+D:\KI3\Ki3\Realtions portal\bin\Debug\net7.0\Realtions portal.pdb
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\Realtions portal.csproj.AssemblyReference.cache
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\Realtions portal.GeneratedMSBuildEditorConfig.editorconfig
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\Realtions portal.AssemblyInfoInputs.cache
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\Realtions portal.AssemblyInfo.cs
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\Realtions portal.csproj.CoreCompileInputs.cache
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\Realtions portal.MvcApplicationPartsAssemblyInfo.cache
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\Realtions portal.RazorAssemblyInfo.cache
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\Realtions portal.RazorAssemblyInfo.cs
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\staticwebassets\msbuild.Realtions portal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\staticwebassets\msbuild.build.Realtions portal.props
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Realtions portal.props
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Realtions portal.props
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\staticwebassets.pack.json
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\staticwebassets.build.json
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\staticwebassets.development.json
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\scopedcss\bundle\Realtions portal.styles.css
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\scopedcss\projectbundle\Realtions portal.bundle.scp.css
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\Realtions portal.dll
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\refint\Realtions portal.dll
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\Realtions portal.pdb
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\Realtions portal.genruntimeconfig.cache
+D:\KI3\Ki3\Realtions portal\obj\Debug\net7.0\ref\Realtions portal.dll
